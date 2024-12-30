@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel.Web.FileProcessor", "Excel.Web.FileProcessor\Excel.Web.FileProcessor.csproj", "{2D88174C-00EE-4EF0-B8A8-A1B34B7D6D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel", "Excel\Excel.csproj", "{BC330BB0-DA3A-4729-BA86-C480B8F1B86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D88174C-00EE-4EF0-B8A8-A1B34B7D6D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D88174C-00EE-4EF0-B8A8-A1B34B7D6D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D88174C-00EE-4EF0-B8A8-A1B34B7D6D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D88174C-00EE-4EF0-B8A8-A1B34B7D6D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC330BB0-DA3A-4729-BA86-C480B8F1B86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC330BB0-DA3A-4729-BA86-C480B8F1B86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC330BB0-DA3A-4729-BA86-C480B8F1B86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC330BB0-DA3A-4729-BA86-C480B8F1B86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
